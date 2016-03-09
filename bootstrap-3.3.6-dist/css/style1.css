@@ -1,0 +1,75 @@
+body{
+	font-size: 10px;
+	font-family: "Indie+Flower", sans-serif;
+	color: yellow;
+}
+#header-nav{
+	background-color: lightpink;
+	border-radius: 0;
+	border: 0;
+	margin-bottom: 0;
+}
+
+h1{
+    margin: 0;
+    color: black;
+    font-weight: bold;
+    font-size: 40px;
+    font-style: italic;
+
+ }
+ h2{
+ 	color: green;
+ 	height: 50px;
+ 	margin: 0;
+ 	font-style: italic;
+ 	font-weight: bold;
+
+ }
+ #nav-list{
+ 	font-size: 15px;
+ 	color: green;
+ 	margin: 0;
+
+	padding: 0;
+ 	text-align: center;
+ 	background-color: red;
+ }
+ #nav-list li:hover{
+ 	background-color: lightgreen;
+ 	margin: 0;
+	padding: 0;
+	cursor: pointer;
+ }
+ #nav-list li{
+ 	font-weight: bold;
+}
+.navbar-brand{
+	padding: 0 0 0 -50px;
+	text-transform: uppercase;   
+}
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid red;
+}
+.mysection{
+	text-align: center;
+	background-color: red;
+	color: black;
+	
+}
+#collapsable-nav{
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+   	width: 100%; 
+}
+
+
+ p{
+ 	font-size: 20px;
+ }
